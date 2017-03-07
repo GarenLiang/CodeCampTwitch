@@ -1,0 +1,64 @@
+body {
+  background: #6441A4;
+}
+
+.container {
+  margin: 1% auto auto auto;
+  width: 66%;
+}
+#hat {
+  height:200px;
+  margin-left: 120px;
+}
+.btn-group-justified{
+
+  margin: 10% 20% 30px -1.5%;
+
+
+}
+.on{
+ background: #FF8C00;
+}
+.off{
+ background: #DC143C;
+}
+#all {
+  border-radius: 0;
+  width: 100px !important;
+}
+#online-but{
+  border-radius: 0;
+  background-color:#FF8C00;
+  width:100px !important;
+}
+#offline-but {
+  border-radius: 0;
+  background-color: #DC143C;
+  width:100px !important;
+}
+.well{
+  color: white;
+  width:700px;
+
+}
+.row.well.on {
+  border-radius: 15px;
+}
+.row.well.off {
+  border-radius: 15px;
+}
+.row {
+  text-align: center;
+  margin-left: 50px;
+}
+a{
+  color: white;
+  text-align: center;
+}
+#status{
+  text-align: center;
+  padding-top: 7px;
+  color: white;
+  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-size: 1.5em;
+}
